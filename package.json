@@ -1,6 +1,6 @@
 {
   "name": "use-portal-hook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Super simple react hook for Portals",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
