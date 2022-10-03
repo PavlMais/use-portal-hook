@@ -1,5 +1,5 @@
 import './App.css';
-import { PortalComponent, usePortal } from 'react-use-portal'
+import { PortalComponent, usePortal } from "use-portal-hook";
 
 
 interface DeleteModalProps {
