@@ -1,10 +1,12 @@
 {
   "name": "use-portal-hook",
   "version": "0.0.2",
+  "description": "Super simple react hook for Portals",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
   "license": "MIT",
+  "author": "paulmais",
   "scripts": {
     "build": "yarn build:esm && yarn build:cjs",
     "build:esm": "tsc",
@@ -22,5 +24,15 @@
   },
   "files": [
     "/lib"
-  ]
+  ],
+  "keywords": [
+    "react",
+    "hook",
+    "portal",
+    "modal",
+    "dialog"
+  ],
+  "repository": "https://github.com/PavlMais/react-portal-hook",
+  "homepage": "https://github.com/PavlMais/react-portal-hook",
+  "bugs": "https://github.com/PavlMais/react-portal-hook/issues"
 }

@@ -70,4 +70,4 @@ const App = () => {
 - CodeSandBox TODO
 
 ### License
-TODO
+MIT
