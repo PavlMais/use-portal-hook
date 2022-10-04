@@ -1,5 +1,7 @@
 # Use Portal Hook
-
+![build](https://github.com/PavlMais/use-portal-hook/actions/workflows/test.yml/badge.svg)
+[![npm version](https://badgen.net/npm/v/use-portal-hook)](https://www.npmjs.com/package/use-portal-hook)
+![](https://badgen.net/bundlephobia/minzip/use-portal-hook)
 ### Features
 - Type safe
 - Small size
