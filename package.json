@@ -1,6 +1,6 @@
 {
   "name": "use-portal-hook",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Super simple react hook for Portals",
   "source": "src/index.tsx",
   "main": "dist/main.js",
