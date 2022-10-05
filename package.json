@@ -39,7 +39,7 @@
     "react-dom": "^18.2.0"
   },
   "files": [
-    "/lib"
+    "/dist"
   ],
   "keywords": [
     "react",
